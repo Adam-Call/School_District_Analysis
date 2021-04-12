@@ -18,6 +18,7 @@ By running the analysis again before we adjust the THS number to only reflect th
   -As well as compared to school sizes.
   ![Size_Before](https://user-images.githubusercontent.com/80363261/114337207-54400680-9b16-11eb-9bb5-7e927b604f12.png)
   ![Size_After](https://user-images.githubusercontent.com/80363261/114337212-56a26080-9b16-11eb-9629-cd0674079dd8.png)
+  
 When we replace the scores for THS by only using the grades from the 10th, 11th, and 12th grade students we see very little change in the scores.
 ![THS](https://user-images.githubusercontent.com/80363261/114337381-a54ffa80-9b16-11eb-89c6-937886796f2a.png)
 ![THS_After](https://user-images.githubusercontent.com/80363261/114337488-c87aaa00-9b16-11eb-986c-4e01b243e37e.png)
