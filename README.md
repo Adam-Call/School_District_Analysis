@@ -14,6 +14,7 @@ By running the analysis again before we adjust the THS number to only reflect th
   ![THS](https://user-images.githubusercontent.com/80363261/114337025-e693da80-9b15-11eb-9ded-1789386c70b3.png)
   ![Top_5_Before](https://user-images.githubusercontent.com/80363261/114337056-01664f00-9b16-11eb-8dee-528e89b3d4f7.png)
   ![Spending_After](https://user-images.githubusercontent.com/80363261/114337107-1a6f0000-9b16-11eb-9c3f-11eb446b291f.png)
+  
   -As well as compared to school sizes.
   ![Size_Before](https://user-images.githubusercontent.com/80363261/114337207-54400680-9b16-11eb-9bb5-7e927b604f12.png)
   ![Size_After](https://user-images.githubusercontent.com/80363261/114337212-56a26080-9b16-11eb-9629-cd0674079dd8.png)
